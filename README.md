@@ -1,5 +1,5 @@
 ### Hi there 👋
-<script src=" https://ander1044.github.io/Terminal_Talk/"></script>
+<script src="https://ander1044.github.io/Terminal_Talk"></script>
 <!--
 **ander1044/ander1044** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
