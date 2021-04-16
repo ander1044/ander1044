@@ -1,48 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ander1044&label=Profile%20views&color=0e75b6&style=flat" alt="ander1044" /> </p>
 
-<!DOCTYPE html>
-<html>
-<head>
-<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
-<script src="https://unpkg.com/jquery.terminal/js/jquery.terminal.min.js"></script>
-<link rel="stylesheet" href="https://unpkg.com/jquery.terminal/css/jquery.terminal.min.css"/>
-</head>
-<body>
-  <!-- <script>
-    $('body').terminal({
-        hello: function(what) {
-            this.echo('Hello, ' + what +
-                      '. Wellcome to this terminal.');
-        }
-    }, {
-        greetings: 'My First Terminal'
-    });
-  </script> -->
-  <script>
-    $('body').terminal({
-        speak: function()
-        {
-          let msg = "Hello world"
-          let speech = new SpeechSynthesisUtterance();
-          speech.lang = "en-US";
-          
-          speech.text = msg;
-          speech.volume = 1;
-          speech.rate = 1;
-          speech.pitch = 1;
-          this.window.speechSynthesis.speak(speech);
-            /* this.echo('Hello, ' + what +
-                      '. Wellcome to this terminal.'); */
-        }
-    }, {
-        greetings: 'Welcome to terminal talk.\nAuthor: Anda Ben.\nCopyright © All rights reserved 2020',
-        name: 'Anda Ben',
-        prompt: 'Anda@kali>'
-    });
-  </script>
-</body>
-</html>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ben_a1044" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ben_a1044" height="30" width="40" /></a>
