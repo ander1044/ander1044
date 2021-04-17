@@ -17,6 +17,6 @@ Software Developer - Cyber Sec engineer - DevOps Engineer... well an entire IT d
 
 ![GitHub metrics](https://metrics.lecoq.io/ander1044)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ander1044)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ander1044&theme=dark)  
 
 ![Profile views](https://gpvc.arturio.dev/ander1044)  
