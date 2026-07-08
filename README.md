@@ -15,7 +15,7 @@ Johannesburg, ZA  //  open to remote
 $ cat /etc/status
 STATUS.............. jacked in
 CLEARANCE........... Arctic Code Vault Contributor
-NODE................. WeThinkCode_ / MICT SETA NQF 5
+NODE................. WeThinkCode_
 SESSION............. indefinite
 
 $ matrix --version
@@ -37,7 +37,7 @@ IDENTITY:    Anda Ben
 NODE:        Johannesburg, South Africa  //  open to remote
 STATUS:      jacked in
 CLEARANCE:   Arctic Code Vault Contributor
-EDUCATION:   Software Engineering — WeThinkCode_  //  MICT SETA NQF Level 5
+EDUCATION:   Software Engineering — WeThinkCode_
 CREDENTIALS: [AZ-900, API-Security, Google-Cybersecurity, Cisco-Ethical-Hacking]
 LANGUAGES:   [en: C1, bash, python, C, php, js]
 ```
