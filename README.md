@@ -47,98 +47,115 @@ LANGUAGES:   [en: C1, bash, python, C, php, js]
 
 <p align="center"><i>Every tool below is loaded into memory and ready to deploy.</i></p>
 
-### <img src="https://img.shields.io/badge/_-CYBERSECURITY-00FF41?style=flat&labelColor=0d0d0d&color=00FF41" />
-<!-- penetration testing, red teaming, API security, IoT/firmware assessment, attack simulation -->
+<table border="0" cellspacing="0" cellpadding="10" width="100%">
+<tr>
+
+<!-- ── CELL 1: CYBERSECURITY ── -->
+<td align="left" valign="top" width="50%">
+<img src="https://img.shields.io/badge/_-CYBERSECURITY-00FF41?style=flat&labelColor=0d0d0d&color=00FF41" /><br/>
 <img src="https://img.shields.io/badge/Pen_Testing-00FF41?style=flat-square&labelColor=0d0d0d" />
 <img src="https://img.shields.io/badge/Red_Teaming-00FF41?style=flat-square&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/API_Security-00FF41?style=flat-square&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/API_Security-00FF41?style=flat-square&labelColor=0d0d0d" /><br/>
 <img src="https://img.shields.io/badge/IoT%2FFirmware_Assessment-00FF41?style=flat-square&labelColor=0d0d0d" />
 <img src="https://img.shields.io/badge/Attack_Simulation-00FF41?style=flat-square&labelColor=0d0d0d" />
 <img src="https://img.shields.io/badge/Security_Audits-00FF41?style=flat-square&labelColor=0d0d0d" />
+</td>
 
-<br/>
-
-### <img src="https://img.shields.io/badge/_-CLOUD_INFRA-00FF41?style=flat&labelColor=0d0d0d&color=00FF41" />
-<!-- AWS, Azure, Azure DevOps, Docker, Kubernetes, Terraform, Ansible, Vagrant -->
-<a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="28" height="28" alt="AWS" /></a>
-<a href="https://azure.microsoft.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="28" height="28" alt="Azure" /></a>
+<!-- ── CELL 2: CLOUD_INFRA ── -->
+<td align="left" valign="top" width="50%">
+<img src="https://img.shields.io/badge/_-CLOUD_INFRA-00FF41?style=flat&labelColor=0d0d0d&color=00FF41" /><br/>
+<a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="26" height="26" alt="AWS" /></a>
+<a href="https://azure.microsoft.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="26" height="26" alt="Azure" /></a>
 <img src="https://img.shields.io/badge/Azure_DevOps-00FF41?style=flat-square&labelColor=0d0d0d" />
-<a href="https://www.docker.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="28" height="28" alt="Docker" /></a>
-<a href="https://kubernetes.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="28" height="28" alt="Kubernetes" /></a>
-<a href="https://www.terraform.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="28" height="28" alt="Terraform" /></a>
-<a href="https://www.ansible.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="28" height="28" alt="Ansible" /></a>
-<a href="https://www.vagrantup.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original.svg" width="28" height="28" alt="Vagrant" /></a>
+<a href="https://www.docker.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="26" height="26" alt="Docker" /></a>
+<a href="https://kubernetes.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="26" height="26" alt="Kubernetes" /></a>
+<a href="https://www.terraform.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="26" height="26" alt="Terraform" /></a>
+<a href="https://www.ansible.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="26" height="26" alt="Ansible" /></a>
+<a href="https://www.vagrantup.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original.svg" width="26" height="26" alt="Vagrant" /></a>
+</td>
 
-<br/>
+</tr>
+<tr>
 
-### <img src="https://img.shields.io/badge/_-OBSERVABILITY%2FSRE-00FF41?style=flat&labelColor=0d0d0d&color=00FF41" />
-<!-- ELK Stack, Kibana, Grafana, Jenkins, Error Budgets, Runbook automation -->
-<a href="https://www.elastic.co"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" width="28" height="28" alt="Elasticsearch" /></a>
-<a href="https://www.elastic.co/kibana"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kibana/kibana-original.svg" width="28" height="28" alt="Kibana" /></a>
-<a href="https://grafana.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="28" height="28" alt="Grafana" /></a>
-<a href="https://www.jenkins.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="28" height="28" alt="Jenkins" /></a>
+<!-- ── CELL 3: OBSERVABILITY/SRE ── -->
+<td align="left" valign="top" width="50%">
+<img src="https://img.shields.io/badge/_-OBSERVABILITY%2FSRE-00FF41?style=flat&labelColor=0d0d0d&color=00FF41" /><br/>
+<a href="https://www.elastic.co"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" width="26" height="26" alt="Elasticsearch" /></a>
+<a href="https://www.elastic.co/kibana"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kibana/kibana-original.svg" width="26" height="26" alt="Kibana" /></a>
+<a href="https://grafana.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="26" height="26" alt="Grafana" /></a>
+<a href="https://www.jenkins.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="26" height="26" alt="Jenkins" /></a><br/>
 <img src="https://img.shields.io/badge/Error_Budgets-00FF41?style=flat-square&labelColor=0d0d0d" />
 <img src="https://img.shields.io/badge/Runbook_Automation-00FF41?style=flat-square&labelColor=0d0d0d" />
 <img src="https://img.shields.io/badge/99.9%25_Uptime-00FF41?style=flat-square&labelColor=0d0d0d" />
+</td>
 
-<br/>
-
-### <img src="https://img.shields.io/badge/_-AI_AUTOMATION-00FF41?style=flat&labelColor=0d0d0d&color=00FF41" />
-<!-- n8n, Make, Ollama, Prompt Eng, LLM Classification, AIOps, self-service workflows, human-in-the-loop -->
+<!-- ── CELL 4: AI_AUTOMATION ── -->
+<td align="left" valign="top" width="50%">
+<img src="https://img.shields.io/badge/_-AI_AUTOMATION-00FF41?style=flat&labelColor=0d0d0d&color=00FF41" /><br/>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&labelColor=0d0d0d" />
 <img src="https://img.shields.io/badge/Make%2FIntegromat-6D00CC?style=flat-square&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/Ollama_llama3.1:8b-00FF41?style=flat-square&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/Ollama_llama3.1:8b-00FF41?style=flat-square&labelColor=0d0d0d" /><br/>
 <img src="https://img.shields.io/badge/Prompt_Engineering-00FF41?style=flat-square&labelColor=0d0d0d" />
 <img src="https://img.shields.io/badge/JSON--Schema_Constrained_Output-00FF41?style=flat-square&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/LLM_Intent_Classification-00FF41?style=flat-square&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/LLM_Intent_Classification-00FF41?style=flat-square&labelColor=0d0d0d" /><br/>
 <img src="https://img.shields.io/badge/Switch_Routing-00FF41?style=flat-square&labelColor=0d0d0d" />
 <img src="https://img.shields.io/badge/Parent--Child_Sub--workflows-00FF41?style=flat-square&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/Human-in-the-loop-00FF41?style=flat-square&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/Human-in-the-loop-00FF41?style=flat-square&labelColor=0d0d0d" /><br/>
 <img src="https://img.shields.io/badge/AIOps-00FF41?style=flat-square&labelColor=0d0d0d" />
 <img src="https://img.shields.io/badge/AI--Assisted_Diagnostics-00FF41?style=flat-square&labelColor=0d0d0d" />
 <img src="https://img.shields.io/badge/Self--Service_Workflows-00FF41?style=flat-square&labelColor=0d0d0d" />
+</td>
 
-<br/>
+</tr>
+<tr>
 
-### <img src="https://img.shields.io/badge/_-ENDPOINT%2FIDENTITY-00FF41?style=flat&labelColor=0d0d0d&color=00FF41" />
-<!-- Intune, Entra ID, Device lifecycle -->
+<!-- ── CELL 5: ENDPOINT/IDENTITY ── -->
+<td align="left" valign="top" width="50%">
+<img src="https://img.shields.io/badge/_-ENDPOINT%2FIDENTITY-00FF41?style=flat&labelColor=0d0d0d&color=00FF41" /><br/>
 <img src="https://img.shields.io/badge/Intune-0078D4?style=flat-square&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/Azure_AD%2FEntra_ID-00FF41?style=flat-square&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/Azure_AD%2FEntra_ID-00FF41?style=flat-square&labelColor=0d0d0d" /><br/>
 <img src="https://img.shields.io/badge/Device_Lifecycle_Management-00FF41?style=flat-square&labelColor=0d0d0d" />
 <img src="https://img.shields.io/badge/Identity_Integration-00FF41?style=flat-square&labelColor=0d0d0d" />
+</td>
 
-<br/>
-
-### <img src="https://img.shields.io/badge/_-SAAS_INTEGRATIONS-00FF41?style=flat&labelColor=0d0d0d&color=00FF41" />
-<!-- Gmail API, HubSpot, Slack Block Kit, Notion, ClickUp, Airtable, Mailchimp, Google Drive, Google Sheets, RSS/JSON -->
+<!-- ── CELL 6: SAAS_INTEGRATIONS ── -->
+<td align="left" valign="top" width="50%">
+<img src="https://img.shields.io/badge/_-SAAS_INTEGRATIONS-00FF41?style=flat&labelColor=0d0d0d&color=00FF41" /><br/>
 <img src="https://img.shields.io/badge/Gmail_API-EA4335?style=flat-square&labelColor=0d0d0d" />
 <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/Slack_Block_Kit-4A154B?style=flat-square&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/Slack_Block_Kit-4A154B?style=flat-square&labelColor=0d0d0d" /><br/>
 <img src="https://img.shields.io/badge/Notion-000?style=flat-square&logo=notion&logoColor=white&labelColor=0d0d0d" />
 <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/Airtable-FCB400?style=flat-square&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/Airtable-FCB400?style=flat-square&labelColor=0d0d0d" /><br/>
 <img src="https://img.shields.io/badge/Mailchimp-FFE01B?style=flat-square&labelColor=0d0d0d&logo=mailchimp&logoColor=black" />
 <img src="https://img.shields.io/badge/Google_Drive-4285F4?style=flat-square&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/Google_Sheets_OAuth2-34A853?style=flat-square&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/Google_Sheets_OAuth2-34A853?style=flat-square&labelColor=0d0d0d" /><br/>
 <img src="https://img.shields.io/badge/RSS%2FJSON--API_Ingestion-00FF41?style=flat-square&labelColor=0d0d0d" />
+</td>
 
-<br/>
+</tr>
+<tr>
 
-### <img src="https://img.shields.io/badge/_-DEVELOPMENT-00FF41?style=flat&labelColor=0d0d0d&color=00FF41" />
-<!-- Python, Bash, C, PHP, JavaScript, Vue.js, Vuetify, MySQL, MongoDB, Selenium, Postman, Git, Linux -->
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="28" height="28" alt="Python" /></a>
-<a href="https://www.gnu.org/software/bash/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="28" height="28" alt="Bash" /></a>
-<a href="https://www.cprogramming.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="28" height="28" alt="C" /></a>
-<a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="28" height="28" alt="PHP" /></a>
-<a href="https://www.javascript.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="28" height="28" alt="JavaScript" /></a>
-<a href="https://vuejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="28" height="28" alt="Vue.js" /></a>
-<a href="https://vuetifyjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuetify/vuetify-original.svg" width="28" height="28" alt="Vuetify" /></a>
-<a href="https://www.mysql.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="28" height="28" alt="MySQL" /></a>
-<a href="https://www.mongodb.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="28" height="28" alt="MongoDB" /></a>
-<a href="https://www.selenium.dev"><img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" width="28" height="28" alt="Selenium" /></a>
-<a href="https://postman.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="28" height="28" alt="Postman" /></a>
-<a href="https://git-scm.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="28" height="28" alt="Git" /></a>
-<a href="https://www.linux.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="28" height="28" alt="Linux" /></a>
+<!-- ── CELL 7: DEVELOPMENT (spans full width) ── -->
+<td align="left" valign="top" colspan="2">
+<img src="https://img.shields.io/badge/_-DEVELOPMENT-00FF41?style=flat&labelColor=0d0d0d&color=00FF41" /><br/>
+<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="26" height="26" alt="Python" /></a>
+<a href="https://www.gnu.org/software/bash/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="26" height="26" alt="Bash" /></a>
+<a href="https://www.cprogramming.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="26" height="26" alt="C" /></a>
+<a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="26" height="26" alt="PHP" /></a>
+<a href="https://www.javascript.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="26" height="26" alt="JavaScript" /></a>
+<a href="https://vuejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="26" height="26" alt="Vue.js" /></a>
+<a href="https://vuetifyjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuetify/vuetify-original.svg" width="26" height="26" alt="Vuetify" /></a>
+<a href="https://www.mysql.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="26" height="26" alt="MySQL" /></a>
+<a href="https://www.mongodb.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="26" height="26" alt="MongoDB" /></a>
+<a href="https://www.selenium.dev"><img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" width="26" height="26" alt="Selenium" /></a>
+<a href="https://postman.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="26" height="26" alt="Postman" /></a>
+<a href="https://git-scm.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="26" height="26" alt="Git" /></a>
+<a href="https://www.linux.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="26" height="26" alt="Linux" /></a>
+</td>
+
+</tr>
+</table>
 
 <!-- ───────────────────────── TELEMETRY ──────────────────────────────── -->
 ## <img src="https://img.shields.io/badge/TELEMETRY-00FF41?style=for-the-badge&labelColor=0d0d0d&color=00FF41" />
