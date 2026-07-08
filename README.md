@@ -30,7 +30,7 @@ The Matrix has you.  Follow the white rabbit.  🐇
 </div>
 
 <!-- ───────────────────────── OPERATOR PROFILE ──────────────────────── -->
-## <img src="https://img.shields.io/badge/OPERATOR_PROFILE-00FF41?style=for-the-badge&labelColor=0d0d0d&color=00FF41&logo=matrix&logoColor=00FF41" /></h2>
+## <img src="https://img.shields.io/badge/OPERATOR_PROFILE-00FF41?style=for-the-badge&labelColor=0d0d0d&color=00FF41&logo=matrix&logoColor=00FF41" />
 
 ```yaml
 IDENTITY:    Anda Ben
@@ -146,14 +146,12 @@ LANGUAGES:   [en: C1, bash, python, C, php, js]
 <div align="center">
 <table border="0" cellspacing="0" cellpadding="6">
 <tr>
-<td align="center" width="33%"><img src="https://github-readme-stats.vercel.app/api?username=ander1044&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00FF41&icon_color=00FF41&text_color=CCCCCC" width="100%" alt="stats" /></td>
-<td align="center" width="33%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ander1044&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00FF41&text_color=CCCCCC" width="100%" alt="langs" /></td>
-<td align="center" width="33%"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ander1044&theme=dark&hide_border=true&background=0d0d0d&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=CCCCCC&dates=999999&currStreakNum=00FF41" width="100%" alt="streak" /></td>
+<td align="center" width="33%"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=ander1044&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00FF41&icon_color=00FF41&text_color=CCCCCC" width="100%" alt="stats" /></td>
+<td align="center" width="33%"><img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ander1044&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00FF41&text_color=CCCCCC" width="100%" alt="langs" /></td>
+<td align="center" width="33%"><img src="https://streak-stats.demolab.com/?user=ander1044&theme=dark&hide_border=true&background=0d0d0d&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=CCCCCC&dates=999999&currStreakNum=00FF41" width="100%" alt="streak" /></td>
 </tr>
 <tr>
-<td align="center"><img src="https://github-profile-trophy.vercel.app/?username=ander1044&theme=onedark&column=4&margin-w=4&margin-h=4&no-bg=true&no-frame=true" width="100%" alt="trophies" /></td>
-<td align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=ander1044&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00FF41&text_color=CCCCCC" width="100%" alt="wakatime" onerror="this.style.display='none'" /></td>
-<td align="center"><img src="https://gpvc.arturio.dev/ander1044" width="100%" alt="profile-views" /></td>
+<td align="center" colspan="3"><img src="https://komarev.com/ghpvc/?username=ander1044&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS" alt="profile-views" /></td>
 </tr>
 </table>
 </div>
@@ -164,7 +162,7 @@ LANGUAGES:   [en: C1, bash, python, C, php, js]
 <p align="center"><i>The serpent devours the grid.  The grid rebuilds.</i></p>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/ander1044/ander1044/output/github-contribution-grid-snake-dark.svg" width="90%" alt="contribution snake" />
+<img src="https://raw.githubusercontent.com/ander1044/ander1044/output/dark.svg" width="90%" alt="contribution snake" />
 </div>
 
 <!-- ───────────────────────── COMMS LINKS ───────────────────────────── -->
