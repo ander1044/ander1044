@@ -6,19 +6,19 @@
 
 <!-- ───────────────────────────── BOOT LOG ───────────────────────────── -->
 ```bash
-$ whoami
+ander1044@nebuchadnezzar:~$ whoami
 ander1044  //  Anda Ben
 
-$ locate operator
+ander1044@nebuchadnezzar:~$ locate operator
 Johannesburg, ZA  //  open to remote
 
-$ cat /etc/status
+ander1044@nebuchadnezzar:~$ cat /etc/status
 STATUS.............. jacked in
 CLEARANCE........... Arctic Code Vault Contributor
 NODE................. WeThinkCode_
 SESSION............. indefinite
 
-$ matrix --version
+ander1044@nebuchadnezzar:~$ matrix --version
 The Matrix has you.  Follow the white rabbit.  🐇
 ```
 
@@ -32,130 +32,47 @@ The Matrix has you.  Follow the white rabbit.  🐇
 <!-- ───────────────────────── OPERATOR PROFILE ──────────────────────── -->
 ## <img src="https://img.shields.io/badge/OPERATOR_PROFILE-00FF41?style=for-the-badge&labelColor=0d0d0d&color=00FF41&logo=matrix&logoColor=00FF41" />
 
-```yaml
-IDENTITY:    Anda Ben
-NODE:        Johannesburg, South Africa  //  open to remote
-STATUS:      jacked in
-CLEARANCE:   Arctic Code Vault Contributor
-EDUCATION:   Software Engineering — WeThinkCode_
-CREDENTIALS: [AZ-900, API-Security, Google-Cybersecurity, Cisco-Ethical-Hacking]
-LANGUAGES:   [en: C1, bash, python, C, php, js]
+```json
+{
+  "identity": "Anda Ben",
+  "node": "Johannesburg, South Africa // open to remote",
+  "status": "jacked in",
+  "clearance": "Arctic Code Vault Contributor",
+  "education": "Software Engineering — WeThinkCode_",
+  "credentials": [
+    "AZ-900", 
+    "API-Security", 
+    "Google-Cybersecurity", 
+    "Cisco-Ethical-Hacking"
+  ],
+  "languages": {
+    "spoken": "en: C1",
+    "syntax": ["bash", "python", "C", "php", "js"]
+  }
+}
 ```
 
 <!-- ───────────────────────── LOADED MODULES ───────────────────────── -->
-## <img src="https://img.shields.io/badge/LOADED_MODULES-00FF41?style=for-the-badge&labelColor=0d0d0d&color=00FF41&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDBGRjQxIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHg9IjMiIHk9IjMiIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgcng9IjIiLz48L3N2Zz4=&logoColor=00FF41" />
+## <img src="https://img.shields.io/badge/LOADED_MODULES-00FF41?style=for-the-badge&labelColor=0d0d0d&color=00FF41" />
 
-<p align="center"><i>Every tool below is loaded into memory and ready to deploy.</i></p>
+```bash
+ander1044@nebuchadnezzar:~$ ls -la /opt/modules/
+```
 
-<table border="0" cellspacing="0" cellpadding="10" width="100%">
-<tr>
-
-<!-- ── CELL 1: CYBERSECURITY ── -->
-<td align="left" valign="top" width="50%">
-<img src="https://img.shields.io/badge/_-CYBERSECURITY-00FF41?style=flat&labelColor=0d0d0d&color=00FF41" /><br/>
-<img src="https://img.shields.io/badge/Pen_Testing-00FF41?style=flat-square&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/Red_Teaming-00FF41?style=flat-square&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/API_Security-00FF41?style=flat-square&labelColor=0d0d0d" /><br/>
-<img src="https://img.shields.io/badge/IoT%2FFirmware_Assessment-00FF41?style=flat-square&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/Attack_Simulation-00FF41?style=flat-square&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/Security_Audits-00FF41?style=flat-square&labelColor=0d0d0d" />
-</td>
-
-<!-- ── CELL 2: CLOUD_INFRA ── -->
-<td align="left" valign="top" width="50%">
-<img src="https://img.shields.io/badge/_-CLOUD_INFRA-00FF41?style=flat&labelColor=0d0d0d&color=00FF41" /><br/>
-<a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="26" height="26" alt="AWS" /></a>
-<a href="https://azure.microsoft.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="26" height="26" alt="Azure" /></a>
-<img src="https://img.shields.io/badge/Azure_DevOps-00FF41?style=flat-square&labelColor=0d0d0d" />
-<a href="https://www.docker.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="26" height="26" alt="Docker" /></a>
-<a href="https://kubernetes.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="26" height="26" alt="Kubernetes" /></a>
-<a href="https://www.terraform.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="26" height="26" alt="Terraform" /></a>
-<a href="https://www.ansible.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="26" height="26" alt="Ansible" /></a>
-<a href="https://www.vagrantup.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original.svg" width="26" height="26" alt="Vagrant" /></a>
-</td>
-
-</tr>
-<tr>
-
-<!-- ── CELL 3: OBSERVABILITY/SRE ── -->
-<td align="left" valign="top" width="50%">
-<img src="https://img.shields.io/badge/_-OBSERVABILITY%2FSRE-00FF41?style=flat&labelColor=0d0d0d&color=00FF41" /><br/>
-<a href="https://www.elastic.co"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" width="26" height="26" alt="Elasticsearch" /></a>
-<a href="https://www.elastic.co/kibana"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kibana/kibana-original.svg" width="26" height="26" alt="Kibana" /></a>
-<a href="https://grafana.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="26" height="26" alt="Grafana" /></a>
-<a href="https://www.jenkins.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="26" height="26" alt="Jenkins" /></a><br/>
-<img src="https://img.shields.io/badge/Error_Budgets-00FF41?style=flat-square&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/Runbook_Automation-00FF41?style=flat-square&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/99.9%25_Uptime-00FF41?style=flat-square&labelColor=0d0d0d" />
-</td>
-
-<!-- ── CELL 4: AI_AUTOMATION ── -->
-<td align="left" valign="top" width="50%">
-<img src="https://img.shields.io/badge/_-AI_AUTOMATION-00FF41?style=flat&labelColor=0d0d0d&color=00FF41" /><br/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/Make%2FIntegromat-6D00CC?style=flat-square&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/Ollama_llama3.1:8b-00FF41?style=flat-square&labelColor=0d0d0d" /><br/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-00FF41?style=flat-square&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/JSON--Schema_Constrained_Output-00FF41?style=flat-square&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/LLM_Intent_Classification-00FF41?style=flat-square&labelColor=0d0d0d" /><br/>
-<img src="https://img.shields.io/badge/Switch_Routing-00FF41?style=flat-square&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/Parent--Child_Sub--workflows-00FF41?style=flat-square&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/Human-in-the-loop-00FF41?style=flat-square&labelColor=0d0d0d" /><br/>
-<img src="https://img.shields.io/badge/AIOps-00FF41?style=flat-square&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/AI--Assisted_Diagnostics-00FF41?style=flat-square&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/Self--Service_Workflows-00FF41?style=flat-square&labelColor=0d0d0d" />
-</td>
-
-</tr>
-<tr>
-
-<!-- ── CELL 5: ENDPOINT/IDENTITY ── -->
-<td align="left" valign="top" width="50%">
-<img src="https://img.shields.io/badge/_-ENDPOINT%2FIDENTITY-00FF41?style=flat&labelColor=0d0d0d&color=00FF41" /><br/>
-<img src="https://img.shields.io/badge/Intune-0078D4?style=flat-square&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/Azure_AD%2FEntra_ID-00FF41?style=flat-square&labelColor=0d0d0d" /><br/>
-<img src="https://img.shields.io/badge/Device_Lifecycle_Management-00FF41?style=flat-square&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/Identity_Integration-00FF41?style=flat-square&labelColor=0d0d0d" />
-</td>
-
-<!-- ── CELL 6: SAAS_INTEGRATIONS ── -->
-<td align="left" valign="top" width="50%">
-<img src="https://img.shields.io/badge/_-SAAS_INTEGRATIONS-00FF41?style=flat&labelColor=0d0d0d&color=00FF41" /><br/>
-<img src="https://img.shields.io/badge/Gmail_API-EA4335?style=flat-square&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/Slack_Block_Kit-4A154B?style=flat-square&labelColor=0d0d0d" /><br/>
-<img src="https://img.shields.io/badge/Notion-000?style=flat-square&logo=notion&logoColor=white&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/Airtable-FCB400?style=flat-square&labelColor=0d0d0d" /><br/>
-<img src="https://img.shields.io/badge/Mailchimp-FFE01B?style=flat-square&labelColor=0d0d0d&logo=mailchimp&logoColor=black" />
-<img src="https://img.shields.io/badge/Google_Drive-4285F4?style=flat-square&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/Google_Sheets_OAuth2-34A853?style=flat-square&labelColor=0d0d0d" /><br/>
-<img src="https://img.shields.io/badge/RSS%2FJSON--API_Ingestion-00FF41?style=flat-square&labelColor=0d0d0d" />
-</td>
-
-</tr>
-<tr>
-
-<!-- ── CELL 7: DEVELOPMENT (spans full width) ── -->
-<td align="left" valign="top" colspan="2">
-<img src="https://img.shields.io/badge/_-DEVELOPMENT-00FF41?style=flat&labelColor=0d0d0d&color=00FF41" /><br/>
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="26" height="26" alt="Python" /></a>
-<a href="https://www.gnu.org/software/bash/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="26" height="26" alt="Bash" /></a>
-<a href="https://www.cprogramming.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="26" height="26" alt="C" /></a>
-<a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="26" height="26" alt="PHP" /></a>
-<a href="https://www.javascript.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="26" height="26" alt="JavaScript" /></a>
-<a href="https://vuejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="26" height="26" alt="Vue.js" /></a>
-<a href="https://vuetifyjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuetify/vuetify-original.svg" width="26" height="26" alt="Vuetify" /></a>
-<a href="https://www.mysql.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="26" height="26" alt="MySQL" /></a>
-<a href="https://www.mongodb.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="26" height="26" alt="MongoDB" /></a>
-<a href="https://www.selenium.dev"><img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" width="26" height="26" alt="Selenium" /></a>
-<a href="https://postman.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="26" height="26" alt="Postman" /></a>
-<a href="https://git-scm.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="26" height="26" alt="Git" /></a>
-<a href="https://www.linux.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="26" height="26" alt="Linux" /></a>
-</td>
-
-</tr>
-</table>
+**`drwxr-xr-x :: cybersecurity`** <br>
+<br>
+**`drwxr-xr-x :: cloud_infra`** <br>
+<br>
+**`drwxr-xr-x :: observability_sre`** <br>
+<br>
+**`drwxr-xr-x :: ai_automation`** <br>
+<br>
+**`drwxr-xr-x :: endpoint_identity`** <br>
+<br>
+**`drwxr-xr-x :: saas_integrations`** <br>
+<br>
+**`drwxr-xr-x :: development`** <br>
+<br><br>
 
 <!-- ───────────────────────── TELEMETRY ──────────────────────────────── -->
 ## <img src="https://img.shields.io/badge/TELEMETRY-00FF41?style=for-the-badge&labelColor=0d0d0d&color=00FF41" />
@@ -185,16 +102,66 @@ LANGUAGES:   [en: C1, bash, python, C, php, js]
 <!-- ───────────────────────── COMMS LINKS ───────────────────────────── -->
 ## <img src="https://img.shields.io/badge/COMMS_LINKS-00FF41?style=for-the-badge&labelColor=0d0d0d&color=00FF41" />
 
-<div align="center">
+<details>
+<summary><b><code>> execute --target github</code></b></summary>
 
-<a href="https://github.com/ander1044"><img src="https://img.shields.io/badge/GitHub-ander1044-00FF41?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" /></a>
-<a href="https://www.linkedin.com/in/anda-ben-249472175/"><img src="https://img.shields.io/badge/LinkedIn-Anda%20Ben-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d" /></a>
-<a href="https://twitter.com/ben_a1044"><img src="https://img.shields.io/badge/Twitter-@ben_a1044-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d0d0d" /></a>
-<a href="https://www.facebook.com/andaben.ander"><img src="https://img.shields.io/badge/Facebook-Anda%20Ben-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d0d0d" /></a>
-<a href="https://www.instagram.com/anda_ben_/"><img src="https://img.shields.io/badge/Instagram-@anda_ben_-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d0d0d" /></a>
-<a href="mailto:ander1044@gmail.com"><img src="https://img.shields.io/badge/Email-ander1044@gmail.com-00FF41?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d" /></a>
+```bash
+[+] Initializing handshake...
+[+] Bypassing firewall heuristics...
+[+] CONNECTION ESTABLISHED: https://github.com/ander1044
+```
+</details>
 
-</div>
+<details>
+<summary><b><code>> execute --target linkedin</code></b></summary>
+
+```bash
+[+] Pinging professional network...
+[+] Establishing secure tunnel...
+[+] CONNECTION ESTABLISHED: https://www.linkedin.com/in/anda-ben-249472175/
+```
+</details>
+
+<details>
+<summary><b><code>> execute --target twitter</code></b></summary>
+
+```bash
+[+] Decrypting micro-broadcast streams...
+[+] Routing through proxy network...
+[+] CONNECTION ESTABLISHED: https://twitter.com/ben_a1044
+```
+</details>
+
+<details>
+<summary><b><code>> execute --target facebook</code></b></summary>
+
+```bash
+[+] Accessing legacy social mainframe...
+[+] Scraping operator profile...
+[+] CONNECTION ESTABLISHED: https://www.facebook.com/andaben.ander
+```
+</details>
+
+<details>
+<summary><b><code>> execute --target instagram</code></b></summary>
+
+```bash
+[+] Downloading visual cache...
+[+] Bypassing image recognition filters...
+[+] CONNECTION ESTABLISHED: https://www.instagram.com/anda_ben_/
+```
+</details>
+
+<details>
+<summary><b><code>> execute --target email</code></b></summary>
+
+```bash
+[+] Opening SMTP relay...
+[+] Generating PGP key pair...
+[+] Ready to transmit payload to: ander1044@gmail.com
+```
+</details>
+<br>
 
 <!-- ─────────────────────────── FOOTER ──────────────────────────────── -->
 <div align="center">
@@ -203,10 +170,10 @@ LANGUAGES:   [en: C1, bash, python, C, php, js]
 
 ```
    ╔═══════════════════════════════════════════════════════════╗
-   ║  The Matrix is a system, Neo.  That system is our enemy.   ║
-   ║  But when you're inside, you look around — what do you     ║
-   ║  see?  Businessmen, teachers, lawyers, carpenters.  The    ║
-   ║  very minds of the people we are trying to save.           ║
+   ║  The Matrix is a system, Neo.  That system is our enemy.  ║
+   ║  But when you're inside, you look around — what do you    ║
+   ║  see?  Businessmen, teachers, lawyers, carpenters.  The   ║
+   ║  very minds of the people we are trying to save.          ║
    ╚═══════════════════════════════════════════════════════════╝
 ```
 
